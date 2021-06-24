@@ -7,7 +7,7 @@ opening particular apps etc.
 The tools and libraries used in this Project are:-
   
   1. speech_recognition
-  2. webrowser
+  2. webbrowser
   3. datetime
   4. os
   5. wikipedia
